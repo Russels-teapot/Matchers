@@ -1,4 +1,5 @@
 import compare from '../app';
+
 const arr = [
   { name: 'мечник', health: 10 },
   { name: 'маг', health: 100 },
